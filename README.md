@@ -1,2 +1,2 @@
-# Python-Project-1-
-Train Ticket booking system using python
+# Python-Project
+This Python-based ticket booking system is a beginner-friendly project that allows customers to book tickets for an event or service through a command-line interface. The system collects passenger details and stores them in a plain text file, ensuring that each booking is recorded with essential information. Key features include a simple user interface, basic error handling, and file-based data storage. This project is designed to help users practice Python programming fundamentals and file management.
