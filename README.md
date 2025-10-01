@@ -54,3 +54,5 @@ This project was specifically designed to help users (and the creator\!) practic
 
 **Author:** \[Dhruv Doshi]
 **Date:** \[28-03-2022]
+
+ *Created and maintained by [dhruv-doshi](https://github.com/dhruv-dosh)*
